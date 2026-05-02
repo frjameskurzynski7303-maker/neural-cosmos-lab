@@ -1,4 +1,3 @@
-
 # 🌌 Neural Cosmos Lab
 
 A browser-based universe simulation with:
@@ -26,4 +25,4 @@ A browser-based universe simulation with:
 5. Click Save
 
 Your site will be live at:
-https://yourusername.github.io/neural-cosmos-lab/
+https://frjameskurzynski7303-maker.github.io/neural-cosmos-lab/
