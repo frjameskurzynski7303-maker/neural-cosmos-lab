@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background: black;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  background: radial-gradient(circle, #05070f, black);
+}
+
+#ui {
+  margin: 10px;
+}
+
+#aiBox {
+  margin-top: 10px;
+}
